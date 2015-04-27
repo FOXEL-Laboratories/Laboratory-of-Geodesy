@@ -1,5 +1,5 @@
 
-## Laboratory of Certification <br /> Data models department - FDM0415
+## Laboratory of Geodesy <br /> Reference systems department
 
 <p align="justify">
 </p>
