@@ -2,7 +2,10 @@
 ## Laboratory of Geodesy <br /> Research and development in geodesy
 
 <p align="justify">
-Description ...
+The laboratory of geodesy of the FOXEL Labs research center is committed to research
+in geodesy related to FOXEL and photogrammetry in general. Research are conducted
+to define a framework for photogrammetric results toward cadastral accuracy and
+derivated cadastral results.
 </p>
 
 <p align="justify">
