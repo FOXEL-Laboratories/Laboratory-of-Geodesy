@@ -4,12 +4,11 @@
 <p align="justify">
 The laboratory of geodesy of the FOXEL Labs research center is committed to research
 in geodesy related to FOXEL and photogrammetry in general. Research are conducted
-to define a framework for photogrammetric results toward cadastral accuracy and
-derivated cadastral results.
+to define a framework for photogrammetric results toward cadastral accuracy.
 </p>
 
 <p align="justify">
-The <a href="https://github.com/FOXEL-Labs-Geodesy">laboratory organisationt</a>
+The <a href="https://github.com/FOXEL-Labs-Geodesy">laboratory organisation</a>
 gives access to the laboratory research codes and files structured in repositories.
 The <a href="https://github.com/FOXEL-Labs/Laboratory-of-Geodesy/wiki">wiki</a>
 gives access to laboratory presentation and publications
