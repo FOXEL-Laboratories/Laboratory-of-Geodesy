@@ -1,7 +1,7 @@
 
 ## Copyright
 
-Laboratory of Geodesy - Research in Digital Geodesy <br />
+Laboratory of Geodesy - Research and development in geodesy <br />
 This research is part of the FOXEL project <[http://foxel.ch](http://foxel.ch)>.
 
 Copyright (c) 2013-2015 FOXEL SA - [http://foxel.ch](http://foxel.ch)<br />
