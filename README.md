@@ -11,7 +11,7 @@ to define a framework for photogrammetric results toward cadastral accuracy.
 The <a href="https://github.com/FOXEL-Labs-Geodesy">laboratory organisation</a>
 gives access to the laboratory research codes and files structured in repositories.
 The <a href="https://github.com/FOXEL-Labs/Laboratory-of-Geodesy/wiki">wiki</a>
-gives access to laboratory presentation and publications
+gives access to the laboratory presentation and publications.
 </p>
 
 ### Copyright
