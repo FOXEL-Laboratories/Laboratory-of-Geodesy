@@ -1,7 +1,15 @@
 
-## Laboratory of Geodesy <br /> Research in Digital Geodesy
+## Laboratory of Geodesy <br /> Research and development in geodesy
 
 <p align="justify">
+Description ...
+</p>
+
+<p align="justify">
+The <a href="https://github.com/FOXEL-Labs-Geodesy">laboratory organisationt</a>
+gives access to the laboratory research codes and files structured in repositories.
+The <a href="https://github.com/FOXEL-Labs/Laboratory-of-Geodesy/wiki">wiki</a>
+gives access to laboratory presentation and publications
 </p>
 
 ### Copyright
